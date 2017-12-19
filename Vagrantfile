@@ -30,6 +30,7 @@ $network = {
   "fedora24_64" => "192.168.2.111",
 }
 
+
 $vmspec = {
   "trusty_64" => [
     "ubuntu/trusty64"
