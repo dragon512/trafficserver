@@ -16,6 +16,7 @@
 #  See the License for the specific language governing permissions and
 #  limitations under the License.
 
+
 $network = {
   "trusty_64"  => "192.168.2.101",
   "trusty_32"  => "192.168.2.102",
