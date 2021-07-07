@@ -1,3 +1,5 @@
+
+# some change
 #  Licensed to the Apache Software Foundation (ASF) under one
 #  or more contributor license agreements.  See the NOTICE file
 #  distributed with this work for additional information
@@ -14,6 +16,7 @@
 #  See the License for the specific language governing permissions and
 #  limitations under the License.
 
+
 $network = {
   "trusty_64"  => "192.168.2.101",
   "trusty_32"  => "192.168.2.102",
@@ -27,6 +30,7 @@ $network = {
   "xenial_64" => "192.168.2.110",
   "fedora24_64" => "192.168.2.111",
 }
+
 
 $vmspec = {
   "trusty_64" => [
@@ -95,6 +99,7 @@ Vagrant.configure("2") do |config|
   end
 
 end
+
 
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
